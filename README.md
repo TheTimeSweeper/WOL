@@ -2,4 +2,4 @@
 Mods for the fabulous game Wizard Of Legend
 
 
-[Timer only mod]("https://github.com/Kvadratisk/WOL/blob/main/Timer")
+[TimerOnlyMod]("https://github.com/Kvadratisk/WOL/blob/main/Timer")
