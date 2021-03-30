@@ -1,7 +1,7 @@
 # WOL Mods
 Mods for the fabulous game Wizard Of Legend
 
------Hera are an instruction on how to add your own cloaks-----
+-----Here are an instruction on how to add your own cloaks-----
 
 Install dnSpy, or any other decompiler of your choice.
 Open the game files, edit the List<Outfit> OutfitList in the Outfit class, now you edit or add a cloak according to the following structure:
